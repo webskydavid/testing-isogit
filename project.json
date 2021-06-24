@@ -3,7 +3,7 @@
   "title": "tit",
   "version": "1.0.0",
   "scenes": [
-    { "key": "scene_34343432434", "name": "Bla bla" },
-    { "key": "scene_34343432434", "name": "bla bla bla" }
+    { "key": "7404814a-d4d1-11eb-b8bc-0242ac130003", "name": "Bla bla" },
+    { "key": "7d3b46a4-d4d1-11eb-b8bc-0242ac130003", "name": "bla bla bla" }
   ]
 }
