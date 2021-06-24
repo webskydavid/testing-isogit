@@ -1,0 +1,10 @@
+[
+  {
+    "key": "adaf2c88-d4d1-11eb-b8bc-0242ac130003",
+    "order": 0,
+    "title": "New HUD",
+    "type": "hud",
+    "disableCheckbox": false,
+    "children": []
+  }
+]
