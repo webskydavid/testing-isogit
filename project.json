@@ -1,0 +1,9 @@
+{
+  "startingScene": "scene1",
+  "title": "tit",
+  "version": "1.0.0",
+  "scenes": [
+    { "key": "scene_34343432434", "name": "Bla bla" },
+    { "key": "scene_34343432434", "name": "bla bla bla" }
+  ]
+}
