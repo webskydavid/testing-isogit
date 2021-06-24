@@ -1,0 +1,9 @@
+{
+  "skybox": { "key": "1606271333333", "show": false },
+  "color": [0, 0, 0],
+  "transparent": false,
+  "skyboxRotation": [0, 0, 0],
+  "shadow": { "level": 3, "enabled": false, "position": [3, 3, 3] },
+  "controller": "1606255529400",
+  "camera": ""
+}
