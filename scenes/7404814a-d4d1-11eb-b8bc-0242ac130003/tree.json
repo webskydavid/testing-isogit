@@ -12,7 +12,50 @@
         "name": "Scene Button",
         "type": "OBJECT_HUD",
         "disableCheckbox": false,
-        "children": []
+        "children": [
+          {
+            "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130333",
+            "order": 0,
+            "name": "Scene Button",
+            "type": "OBJECT_HUD",
+            "disableCheckbox": false,
+            "children": []
+          },
+          {
+            "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130333",
+            "order": 1,
+            "name": "Scene Button",
+            "type": "OBJECT_HUD",
+            "disableCheckbox": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130111",
+    "order": 1,
+    "name": "New HUD",
+    "type": "HUD",
+    "disableCheckbox": false,
+    "children": [
+      {
+        "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130311",
+        "order": 0,
+        "name": "Scene Button",
+        "type": "OBJECT_HUD",
+        "disableCheckbox": false,
+        "children": [
+          {
+            "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131111",
+            "order": 0,
+            "name": "Scene Button",
+            "type": "OBJECT_HUD",
+            "disableCheckbox": false,
+            "children": []
+          }
+        ]
       }
     ]
   }
