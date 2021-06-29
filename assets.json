@@ -6,15 +6,15 @@
     "path": "assets/Model",
     "children": [
       {
-        "key": "550a826c-d4d1-11eb-b8bc-0242ac130003",
+        "key": "769a029e-d8c4-11eb-b8bc-0242ac130003",
         "name": "My_Home_sofa.obj.c3b",
         "type": "object",
         "path": "assets/Model",
         "children": []
       },
       {
-        "key": "63e0b770-d4d1-11eb-b8bc-0242ac130003",
-        "name": "Soldier_final.fbx.c3b",
+        "key": "769a029e-d8c4-11eb-b8bc-0242ac130003",
+        "name": "My_Home_sofa.obj.c3b",
         "type": "object",
         "path": "assets/Model",
         "children": []
