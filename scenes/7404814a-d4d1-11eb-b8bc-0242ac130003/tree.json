@@ -11,7 +11,8 @@
         "order": 0,
         "name": "Scene Button",
         "type": "OBJECT_HUD",
-        "disableCheckbox": false
+        "disableCheckbox": false,
+        "children": []
       }
     ]
   }
