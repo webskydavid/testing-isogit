@@ -2,9 +2,17 @@
   {
     "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130003",
     "order": 0,
-    "title": "New HUD",
+    "name": "New HUD",
     "type": "HUD",
     "disableCheckbox": false,
-    "children": []
+    "children": [
+      {
+        "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130332",
+        "order": 0,
+        "name": "Scene Button",
+        "type": "OBJECT_HUD",
+        "disableCheckbox": false
+      }
+    ]
   }
 ]
