@@ -24,7 +24,7 @@
           {
             "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130333",
             "order": 1,
-            "name": "Scene Button",
+            "name": "Changed name",
             "type": "OBJECT_HUD",
             "disableCheckbox": false,
             "children": []
