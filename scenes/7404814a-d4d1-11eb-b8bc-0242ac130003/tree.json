@@ -10,7 +10,7 @@
         "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130332",
         "order": 0,
         "name": "Scene Button",
-        "type": "OBJECT_HUD",
+        "type": "OBJECT_GROUP",
         "disableCheckbox": false,
         "children": [
           {
@@ -22,7 +22,7 @@
             "children": []
           },
           {
-            "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130333",
+            "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130335",
             "order": 1,
             "name": "Changed name",
             "type": "OBJECT_HUD",
@@ -44,7 +44,7 @@
         "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130311",
         "order": 0,
         "name": "Scene Button",
-        "type": "OBJECT_HUD",
+        "type": "OBJECT_GROUP",
         "disableCheckbox": false,
         "children": [
           {
@@ -58,5 +58,45 @@
         ]
       }
     ]
+  },
+  {
+    "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131112",
+    "order": 0,
+    "name": "Scene light",
+    "type": "LIGHT",
+    "disableCheckbox": false,
+    "children": []
+  },
+  {
+    "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131114",
+    "order": 0,
+    "name": "image.png",
+    "type": "IMAGE",
+    "disableCheckbox": true,
+    "children": []
+  },
+  {
+    "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131115",
+    "order": 0,
+    "name": "3dmodel.c3b",
+    "type": "OBJECT",
+    "disableCheckbox": false,
+    "children": []
+  },
+  {
+    "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131116",
+    "order": 0,
+    "name": "Scene controller",
+    "type": "CONFIGURATION",
+    "disableCheckbox": false,
+    "children": []
+  },
+  {
+    "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131117",
+    "order": 0,
+    "name": "play.mov",
+    "type": "VIDEO",
+    "disableCheckbox": false,
+    "children": []
   }
 ]
