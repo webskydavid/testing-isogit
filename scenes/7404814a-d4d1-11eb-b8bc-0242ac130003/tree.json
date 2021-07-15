@@ -2,7 +2,7 @@
   {
     "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130003",
     "order": 0,
-    "name": "New HUD",
+    "name": "New HUD 0",
     "type": "HUD",
     "visible": true,
     "disableCheckbox": false,
@@ -10,7 +10,7 @@
       {
         "key": "af455394-7439-45d4-8af3-3079b6d7c434",
         "order": 0,
-        "name": "Scene Button",
+        "name": "Button 0,0",
         "type": "OBJECT_GROUP",
         "disableCheckbox": false,
         "visible": true,
@@ -18,7 +18,7 @@
           {
             "key": "4f782dd3-250c-4e7a-a512-85b8a3847fa5",
             "order": 0,
-            "name": "Scene Button",
+            "name": "Foo 0,0,0",
             "type": "OBJECT_HUD",
             "disableCheckbox": false,
             "visible": true,
@@ -27,7 +27,7 @@
           {
             "key": "eb2c3064-ac1a-4479-80a0-37c710dd511e",
             "order": 1,
-            "name": "Changed name",
+            "name": "Changed 0,0,1",
             "type": "OBJECT_HUD",
             "disableCheckbox": false,
             "visible": true,
@@ -40,7 +40,7 @@
   {
     "key": "3e6ec137-2caf-42e6-bb81-5a2cdd0d59bb",
     "order": 1,
-    "name": "New HUD",
+    "name": "New HUD 1",
     "type": "HUD",
     "disableCheckbox": false,
     "visible": true,
@@ -48,7 +48,7 @@
       {
         "key": "e4ab669d-13bf-400e-ade7-dd89d4369aa8",
         "order": 0,
-        "name": "Scene Button",
+        "name": "Bar 1,0",
         "type": "OBJECT_GROUP",
         "disableCheckbox": false,
         "visible": true,
@@ -56,7 +56,7 @@
           {
             "key": "0a034e9e-d801-48fa-ae0a-389a29ab9e74",
             "order": 0,
-            "name": "Scene Button",
+            "name": "Bla 1,0,0",
             "type": "OBJECT_HUD",
             "disableCheckbox": false,
             "visible": true,
@@ -69,7 +69,7 @@
   {
     "key": "ff1bb729-e533-4113-88ff-c4a9b15eb226",
     "order": 0,
-    "name": "Scene light",
+    "name": "Scene light 2",
     "type": "OBJECT_GROUP",
     "disableCheckbox": false,
     "visible": true,
@@ -77,7 +77,7 @@
       {
         "key": "f2af552a-a20a-4c60-b891-ce406467860b",
         "order": 0,
-        "name": "Scene light",
+        "name": "Scene 2,0",
         "type": "LIGHT",
         "disableCheckbox": false,
         "visible": true,
@@ -86,7 +86,7 @@
       {
         "key": "5e63fc4a-52e4-495a-b87d-71fed258eb93",
         "order": 0,
-        "name": "image.png",
+        "name": "image.png 2,1",
         "type": "IMAGE",
         "disableCheckbox": true,
         "visible": true,
@@ -95,7 +95,7 @@
       {
         "key": "a8c5bea5-498f-427d-8c04-0b6675287482",
         "order": 0,
-        "name": "3dmodel.c3b",
+        "name": "3dmodel.c3b 2,2",
         "type": "OBJECT",
         "disableCheckbox": false,
         "visible": true,
@@ -104,7 +104,7 @@
       {
         "key": "1f9bce93-c030-4726-a5df-2cfa51d5b9fe",
         "order": 0,
-        "name": "Scene controller",
+        "name": "Scene controller 2,3",
         "type": "CONFIGURATION",
         "disableCheckbox": false,
         "visible": true,
@@ -113,7 +113,7 @@
       {
         "key": "fc587043-954f-44b2-aacc-b261298159a2",
         "order": 0,
-        "name": "play.mov",
+        "name": "play.mov 2,4",
         "type": "VIDEO",
         "disableCheckbox": false,
         "visible": true,
