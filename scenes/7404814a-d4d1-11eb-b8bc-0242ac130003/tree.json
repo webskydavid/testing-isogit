@@ -8,7 +8,7 @@
     "disableCheckbox": false,
     "children": [
       {
-        "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130332",
+        "key": "af455394-7439-45d4-8af3-3079b6d7c434",
         "order": 0,
         "name": "Scene Button",
         "type": "OBJECT_GROUP",
@@ -16,7 +16,7 @@
         "visible": true,
         "children": [
           {
-            "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130333",
+            "key": "4f782dd3-250c-4e7a-a512-85b8a3847fa5",
             "order": 0,
             "name": "Scene Button",
             "type": "OBJECT_HUD",
@@ -25,7 +25,7 @@
             "children": []
           },
           {
-            "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130335",
+            "key": "eb2c3064-ac1a-4479-80a0-37c710dd511e",
             "order": 1,
             "name": "Changed name",
             "type": "OBJECT_HUD",
@@ -38,7 +38,7 @@
     ]
   },
   {
-    "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130111",
+    "key": "3e6ec137-2caf-42e6-bb81-5a2cdd0d59bb",
     "order": 1,
     "name": "New HUD",
     "type": "HUD",
@@ -46,7 +46,7 @@
     "visible": true,
     "children": [
       {
-        "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130311",
+        "key": "e4ab669d-13bf-400e-ade7-dd89d4369aa8",
         "order": 0,
         "name": "Scene Button",
         "type": "OBJECT_GROUP",
@@ -54,7 +54,7 @@
         "visible": true,
         "children": [
           {
-            "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131111",
+            "key": "0a034e9e-d801-48fa-ae0a-389a29ab9e74",
             "order": 0,
             "name": "Scene Button",
             "type": "OBJECT_HUD",
@@ -67,7 +67,7 @@
     ]
   },
   {
-    "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131112",
+    "key": "ff1bb729-e533-4113-88ff-c4a9b15eb226",
     "order": 0,
     "name": "Scene light",
     "type": "OBJECT_GROUP",
@@ -75,7 +75,7 @@
     "visible": true,
     "children": [
       {
-        "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131119",
+        "key": "f2af552a-a20a-4c60-b891-ce406467860b",
         "order": 0,
         "name": "Scene light",
         "type": "LIGHT",
@@ -84,7 +84,7 @@
         "children": []
       },
       {
-        "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131114",
+        "key": "5e63fc4a-52e4-495a-b87d-71fed258eb93",
         "order": 0,
         "name": "image.png",
         "type": "IMAGE",
@@ -93,7 +93,7 @@
         "children": []
       },
       {
-        "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131115",
+        "key": "a8c5bea5-498f-427d-8c04-0b6675287482",
         "order": 0,
         "name": "3dmodel.c3b",
         "type": "OBJECT",
@@ -102,7 +102,7 @@
         "children": []
       },
       {
-        "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131116",
+        "key": "1f9bce93-c030-4726-a5df-2cfa51d5b9fe",
         "order": 0,
         "name": "Scene controller",
         "type": "CONFIGURATION",
@@ -111,7 +111,7 @@
         "children": []
       },
       {
-        "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131117",
+        "key": "fc587043-954f-44b2-aacc-b261298159a2",
         "order": 0,
         "name": "play.mov",
         "type": "VIDEO",
