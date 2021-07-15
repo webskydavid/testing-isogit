@@ -4,6 +4,7 @@
     "order": 0,
     "name": "New HUD",
     "type": "HUD",
+    "visible": true,
     "disableCheckbox": false,
     "children": [
       {
@@ -12,6 +13,7 @@
         "name": "Scene Button",
         "type": "OBJECT_GROUP",
         "disableCheckbox": false,
+        "visible": true,
         "children": [
           {
             "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130333",
@@ -19,6 +21,7 @@
             "name": "Scene Button",
             "type": "OBJECT_HUD",
             "disableCheckbox": false,
+            "visible": true,
             "children": []
           },
           {
@@ -27,6 +30,7 @@
             "name": "Changed name",
             "type": "OBJECT_HUD",
             "disableCheckbox": false,
+            "visible": true,
             "children": []
           }
         ]
@@ -39,6 +43,7 @@
     "name": "New HUD",
     "type": "HUD",
     "disableCheckbox": false,
+    "visible": true,
     "children": [
       {
         "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac130311",
@@ -46,6 +51,7 @@
         "name": "Scene Button",
         "type": "OBJECT_GROUP",
         "disableCheckbox": false,
+        "visible": true,
         "children": [
           {
             "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131111",
@@ -53,6 +59,7 @@
             "name": "Scene Button",
             "type": "OBJECT_HUD",
             "disableCheckbox": false,
+            "visible": true,
             "children": []
           }
         ]
@@ -65,6 +72,7 @@
     "name": "Scene light",
     "type": "OBJECT_GROUP",
     "disableCheckbox": false,
+    "visible": true,
     "children": [
       {
         "key": "e4c6fafc-d4d1-11eb-b8bc-0242ac131119",
@@ -72,6 +80,7 @@
         "name": "Scene light",
         "type": "LIGHT",
         "disableCheckbox": false,
+        "visible": true,
         "children": []
       },
       {
@@ -80,6 +89,7 @@
         "name": "image.png",
         "type": "IMAGE",
         "disableCheckbox": true,
+        "visible": true,
         "children": []
       },
       {
@@ -88,6 +98,7 @@
         "name": "3dmodel.c3b",
         "type": "OBJECT",
         "disableCheckbox": false,
+        "visible": true,
         "children": []
       },
       {
@@ -96,6 +107,7 @@
         "name": "Scene controller",
         "type": "CONFIGURATION",
         "disableCheckbox": false,
+        "visible": true,
         "children": []
       },
       {
@@ -104,6 +116,7 @@
         "name": "play.mov",
         "type": "VIDEO",
         "disableCheckbox": false,
+        "visible": true,
         "children": []
       }
     ]
