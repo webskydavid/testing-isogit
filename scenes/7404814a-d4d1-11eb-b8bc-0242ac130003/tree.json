@@ -4,8 +4,8 @@
     "order": 0,
     "name": "New HUD 0",
     "type": "HUD",
-    "visible": true,
     "disableCheckbox": false,
+    "uiVisible": true,
     "children": [
       {
         "key": "af455394-7439-45d4-8af3-3079b6d7c434",
@@ -13,7 +13,7 @@
         "name": "Button 0,0",
         "type": "OBJECT_GROUP",
         "disableCheckbox": false,
-        "visible": true,
+        "uiVisible": true,
         "children": [
           {
             "key": "4f782dd3-250c-4e7a-a512-85b8a3847fa5",
@@ -21,7 +21,7 @@
             "name": "Foo 0,0,0",
             "type": "OBJECT_HUD",
             "disableCheckbox": false,
-            "visible": true,
+            "uiVisible": true,
             "children": []
           },
           {
@@ -30,7 +30,7 @@
             "name": "Changed 0,0,1",
             "type": "OBJECT_HUD",
             "disableCheckbox": false,
-            "visible": true,
+            "uiVisible": true,
             "children": []
           }
         ]
@@ -43,7 +43,7 @@
     "name": "New HUD 1",
     "type": "HUD",
     "disableCheckbox": false,
-    "visible": true,
+    "uiVisible": true,
     "children": [
       {
         "key": "e4ab669d-13bf-400e-ade7-dd89d4369aa8",
@@ -51,7 +51,7 @@
         "name": "Bar 1,0",
         "type": "OBJECT_GROUP",
         "disableCheckbox": false,
-        "visible": true,
+        "uiVisible": true,
         "children": [
           {
             "key": "0a034e9e-d801-48fa-ae0a-389a29ab9e74",
@@ -59,7 +59,7 @@
             "name": "Bla 1,0,0",
             "type": "OBJECT_HUD",
             "disableCheckbox": false,
-            "visible": true,
+            "uiVisible": true,
             "children": []
           }
         ]
@@ -72,7 +72,7 @@
     "name": "Scene light 2",
     "type": "OBJECT_GROUP",
     "disableCheckbox": false,
-    "visible": true,
+    "uiVisible": true,
     "children": [
       {
         "key": "f2af552a-a20a-4c60-b891-ce406467860b",
@@ -80,7 +80,7 @@
         "name": "Scene 2,0",
         "type": "LIGHT",
         "disableCheckbox": false,
-        "visible": true,
+        "uiVisible": true,
         "children": []
       },
       {
@@ -89,7 +89,7 @@
         "name": "image.png 2,1",
         "type": "IMAGE",
         "disableCheckbox": true,
-        "visible": true,
+        "uiVisible": true,
         "children": []
       },
       {
@@ -98,7 +98,7 @@
         "name": "3dmodel.c3b 2,2",
         "type": "OBJECT",
         "disableCheckbox": false,
-        "visible": true,
+        "uiVisible": true,
         "children": []
       },
       {
@@ -107,7 +107,7 @@
         "name": "Scene controller 2,3",
         "type": "CONFIGURATION",
         "disableCheckbox": false,
-        "visible": true,
+        "uiVisible": true,
         "children": []
       },
       {
@@ -116,7 +116,7 @@
         "name": "play.mov 2,4",
         "type": "VIDEO",
         "disableCheckbox": false,
-        "visible": true,
+        "uiVisible": true,
         "children": []
       }
     ]
