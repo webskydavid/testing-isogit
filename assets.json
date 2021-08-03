@@ -1,27 +1,5 @@
 [
   {
-    "key": "4e32217a-d4d1-11eb-b8bc-0242ac130003",
-    "name": "Model",
-    "type": "FOLDER",
-    "path": "assets/Model",
-    "children": [
-      {
-        "key": "769a029e-d8c4-11eb-b8bc-0242ac130003",
-        "name": "My_Home_sofa.obj.c3b",
-        "type": "OBJECT",
-        "path": "assets/Model",
-        "children": []
-      },
-      {
-        "key": "7jha029e-d8c4-11eb-b8bc-0242ac130003",
-        "name": "vg.png",
-        "type": "IMAGE",
-        "path": "assets/Model",
-        "children": []
-      }
-    ]
-  },
-  {
     "key": "fefw3f-3f3f-11eb-b8bc-0242ac130003",
     "name": "Controller2",
     "type": "SCRIPT",
