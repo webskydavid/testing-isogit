@@ -4,6 +4,7 @@
     "name": "Controller2",
     "type": "SCRIPT",
     "path": "assets/Model",
+    "extension": "js",
     "children": []
   },
   {
@@ -17,6 +18,7 @@
         "name": "MyScript",
         "type": "SCRIPT",
         "path": "assets/Model",
+        "extension": "js",
         "children": []
       },
       {
@@ -24,6 +26,7 @@
         "name": "finalscript.js",
         "type": "SCRIPT",
         "path": "assets/Model",
+        "extension": "js",
         "children": []
       }
     ]
