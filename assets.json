@@ -19,7 +19,21 @@
         "type": "SCRIPT",
         "path": "assets/Model",
         "extension": "js",
+        "children": [
+        {
+        "key": "fe45t43f-3f3f-11eb-b8bc-0242ac130004",
+        "name": "Folder bla",
+        "type": "FOLDER",
+        "path": "assets/Model",
+        "children": [
+        {
+        "key": "fe45t43f-3f3f-11eb-b8bc-0242ac130008",
+        "name": "Folder foo",
+        "type": "FOLDER",
+        "path": "assets/Model",
         "children": []
+      }]
+      }]
       },
       {
         "key": "fe45t43f-3f3f-11eb-b8bc-0242ac130003",
