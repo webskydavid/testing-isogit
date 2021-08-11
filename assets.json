@@ -1,47 +1,55 @@
 [
-  {
-    "key": "fefw3f-3f3f-11eb-b8bc-0242ac130003",
-    "name": "Controller2",
-    "type": "SCRIPT",
-    "path": "assets/Model",
-    "extension": "js",
-    "children": []
-  },
-  {
-    "key": "fgrrg3f-33f-11eb-b8bc-0242ac130003",
-    "name": "Some dir",
-    "type": "FOLDER",
-    "path": "assets/Model",
-    "children": [
-      {
-        "key": "hytuuf-3f3f-11eb-b8bc-0242ac130003",
-        "name": "Folder bar",
-        "type": "FOLDER",
-        "path": "assets/Model",
-        "children": [
-        {
-        "key": "fe45t43f-3f3f-11eb-b8bc-0242ac130004",
-        "name": "Folder bla",
-        "type": "FOLDER",
-        "path": "assets/Model",
-        "children": [
-        {
-        "key": "fe45t43f-3f3f-11eb-b8bc-0242ac130008",
-        "name": "Folder foo",
-        "type": "FOLDER",
-        "path": "assets/Model",
-        "children": []
-      }]
-      }]
-      },
-      {
-        "key": "fe45t43f-3f3f-11eb-b8bc-0242ac130003",
-        "name": "finalscript.js",
-        "type": "SCRIPT",
-        "path": "assets/Model",
-        "extension": "js",
-        "children": []
-      }
-    ]
-  }
+   {
+      "key":"fefw3f-3f3f-11eb-b8bc-0242ac130003",
+      "name":"Controller2",
+      "type":"SCRIPT",
+      "path":"assets/Model",
+      "extension":"js",
+      "children":[
+         
+      ]
+   },
+   {
+      "key":"fgrrg3f-33f-11eb-b8bc-0242ac130003",
+      "name":"Some dir",
+      "type":"FOLDER",
+      "path":"assets/Model",
+      "children":[
+         {
+            "key":"hytuuf-3f3f-11eb-b8bc-0242ac130003",
+            "name":"Folder bar",
+            "type":"FOLDER",
+            "path":"assets/Model",
+            "children":[
+               {
+                  "key":"fe45t43f-3f3f-11eb-b8bc-0242ac130004",
+                  "name":"Folder bla",
+                  "type":"FOLDER",
+                  "path":"assets/Model",
+                  "children":[
+                     {
+                        "key":"fe45t43f-3f3f-11eb-b8bc-0242ac130008",
+                        "name":"Folder foo",
+                        "type":"FOLDER",
+                        "path":"assets/Model",
+                        "children":[
+                           
+                        ]
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "key":"fe45t43f-3f3f-11eb-b8bc-0242ac130003",
+            "name":"finalscript.js",
+            "type":"SCRIPT",
+            "path":"assets/Model",
+            "extension":"js",
+            "children":[
+               
+            ]
+         }
+      ]
+   }
 ]
