@@ -1,6 +1,7 @@
 [ 
    {
       "key": "1629210257617",
+      "name": "cone.c3b",
       "title": "cone.c3b",
       "type": "OBJECT",
       "extension":"c3b",
@@ -9,6 +10,7 @@
     {
       "key": "1629211419203",
       "name": "WorldController.js",
+      "title": "WorldController.js",
       "type": "SCRIPT",
       "extension": "js",
       "path":"assets/Model"
@@ -16,6 +18,7 @@
     {
       "key": "1629369980687",
       "name": "3d",
+      "title": "3d",
       "type": "FOLDER",
       "disableCheckbox": true,
       "path":"assets/Model",
@@ -23,7 +26,8 @@
         {
           "key": "1629370101945",
           "name": "Interior.c3b",
-          "type": "object"
+          "title": "Interior.c3b",
+          "type": "OBJECT"
         }
       ]
     }
