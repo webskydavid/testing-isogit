@@ -1,55 +1,31 @@
-[
+[ 
    {
-      "key":"fefw3f-3f3f-11eb-b8bc-0242ac130003",
-      "name":"Controller2",
-      "type":"SCRIPT",
+      "key": "1629210257617",
+      "title": "cone.c3b",
+      "type": "OBJECT",
+      "extension":"c3b",
+      "path":"assets/Model"
+    },
+    {
+      "key": "1629211419203",
+      "name": "WorldController.js",
+      "type": "SCRIPT",
+      "extension": "js",
+      "path":"assets/Model"
+    },
+    {
+      "key": "1629369980687",
+      "name": "3d",
+      "type": "FOLDER",
+      "disableCheckbox": true,
       "path":"assets/Model",
-      "extension":"js",
-      "children":[
-         
+      "children": [
+        {
+          "key": "1629370101945",
+          "name": "Interior.c3b",
+          "type": "object"
+        }
       ]
-   },
-   {
-      "key":"fgrrg3f-33f-11eb-b8bc-0242ac130003",
-      "name":"Some dir",
-      "type":"FOLDER",
-      "path":"assets/Model",
-      "children":[
-         {
-            "key":"hytuuf-3f3f-11eb-b8bc-0242ac130003",
-            "name":"Folder bar",
-            "type":"FOLDER",
-            "path":"assets/Model",
-            "children":[
-               {
-                  "key":"fe45t43f-3f3f-11eb-b8bc-0242ac130004",
-                  "name":"Folder bla",
-                  "type":"FOLDER",
-                  "path":"assets/Model",
-                  "children":[
-                     {
-                        "key":"fe45t43f-3f3f-11eb-b8bc-0242ac130008",
-                        "name":"Folder foo",
-                        "type":"FOLDER",
-                        "path":"assets/Model",
-                        "children":[
-                           
-                        ]
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "key":"fe45t43f-3f3f-11eb-b8bc-0242ac130003",
-            "name":"finalscript.js",
-            "type":"SCRIPT",
-            "path":"assets/Model",
-            "extension":"js",
-            "children":[
-               
-            ]
-         }
-      ]
-   }
+    }
+
 ]
