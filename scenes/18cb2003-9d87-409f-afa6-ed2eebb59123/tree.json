@@ -1,6 +1,7 @@
 [
     {
         "key": "1629210258084",
+        "id": "1629210257617",
         "name": "cone.c3b",
         "title": "cone.c3b",
         "type": "object",
@@ -10,6 +11,7 @@
       },
       {
         "key": "1629370107519",
+        "id": "1629370101945",
         "name": "Interior.c3b",
         "title": "Interior.c3b",
         "type": "object",
