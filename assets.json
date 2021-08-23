@@ -1,7 +1,6 @@
 [ 
    {
       "key": "1629210257617",
-      "name": "cone.c3b",
       "title": "cone.c3b",
       "type": "object",
       "extension":"c3b",
@@ -9,7 +8,6 @@
     },
     {
       "key": "1629211419203",
-      "name": "WorldController.js",
       "title": "WorldController.js",
       "type": "javascript",
       "extension": "js",
@@ -17,7 +15,6 @@
     },
     {
       "key": "1629369980687",
-      "name": "3d",
       "title": "3d",
       "type": "folder",
       "disableCheckbox": true,
@@ -25,7 +22,6 @@
       "children": [
         {
           "key": "1629370101945",
-          "name": "Interior.c3b",
           "title": "Interior.c3b",
           "type": "object"
         }

@@ -2,7 +2,6 @@
     {
         "key": "1629210258084",
         "id": "1629210257617",
-        "name": "cone.c3b",
         "title": "cone.c3b",
         "type": "object",
         "disableCheckbox": false,
@@ -12,7 +11,6 @@
       {
         "key": "1629370107519",
         "id": "1629370101945",
-        "name": "Interior.c3b",
         "title": "Interior.c3b",
         "type": "object",
         "disableCheckbox": false,
@@ -21,7 +19,6 @@
       },
       {
         "key": "1629370268381",
-        "name": "New light 1",
         "title": "New light 1",
         "type": "light",
         "disableCheckbox": false,
@@ -30,7 +27,6 @@
       },
       {
         "key": "1629372623936",
-        "name": "New light 2",
         "title": "New light 2",
         "type": "light",
         "disableCheckbox": false,
