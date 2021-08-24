@@ -8,6 +8,6 @@
   "version": 2,
   "scenes": [
     { "key": "18cb2003-9d87-409f-afa6-ed2eebb59123", "name": "New scene" },
-    { "key": "18cb2003-9d87-409f-afa6-ed2eebb59099", "name": "Other scene" }
+    { "key": "18cb2003-9d87-409f-afa6-ed2eebb59999", "name": "Copy scene" }
   ]
 }
