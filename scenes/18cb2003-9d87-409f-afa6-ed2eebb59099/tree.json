@@ -1,0 +1,36 @@
+[
+    {
+        "key": "1629210258082",
+        "id": "1629210257617",
+        "title": "cone.c3b",
+        "type": "object",
+        "disableCheckbox": false,
+        "visible": true,
+        "children": []
+      },
+      {
+        "key": "1629370107511",
+        "id": "1629370101945",
+        "title": "Interior.c3b",
+        "type": "object",
+        "disableCheckbox": false,
+        "visible": true,
+        "children": []
+      },
+      {
+        "key": "1629370268383",
+        "title": "New light 1",
+        "type": "light",
+        "disableCheckbox": false,
+        "visible": true,
+        "children": []
+      },
+      {
+        "key": "1629372623934",
+        "title": "New light 2",
+        "type": "light",
+        "disableCheckbox": false,
+        "visible": true,
+        "children": []
+      }
+]

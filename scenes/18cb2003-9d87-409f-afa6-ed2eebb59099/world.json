@@ -1,0 +1,37 @@
+
+{
+    "skybox": {
+        "key": "1606271076893",
+        "show": false
+      },
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "transparent": false,
+      "skyboxRotation": [
+        0,
+        0,
+        0
+      ],
+      "shadow": {
+        "level": 3,
+        "enabled": false,
+        "position": [
+          3,
+          3,
+          3
+        ],
+        "fov": false,
+        "texture": [
+          2048,
+          2048
+        ]
+      },
+      "controller": "1629211419203",
+      "camera": "",
+      "fps": 30,
+      "dpr": 0.25,
+      "fxaa": 1
+}
