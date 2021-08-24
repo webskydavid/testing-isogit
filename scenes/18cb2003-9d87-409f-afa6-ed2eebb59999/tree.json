@@ -1,6 +1,6 @@
 [
       {
-        "key": "1629370107511",
+        "key": "1629370107519",
         "id": "1629370101945",
         "title": "Interior.c3b",
         "type": "object",
@@ -9,7 +9,7 @@
         "children": []
       },
       {
-        "key": "1629370268383",
+        "key": "1629370268381",
         "title": "New light 1",
         "type": "light",
         "disableCheckbox": false,
@@ -17,7 +17,7 @@
         "children": []
       },
       {
-        "key": "1629372623934",
+        "key": "1629372623936",
         "title": "New light 2",
         "type": "light",
         "disableCheckbox": false,
