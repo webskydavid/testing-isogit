@@ -1,11 +1,12 @@
 {
-  "projectId": "123456",
+  "id": "123456",
+  "incrementalId": 0,
+  "version": 3,
+  "title": "Bla bla project",
   "createDate" : "2021-06-28T11:11:11",
   "updateDate": "2021-06-28T15:11:11",
   "startingScene": "18cb2003-9d87-409f-afa6-ed2eebb59123",
   "selectedScene": "18cb2003-9d87-409f-afa6-ed2eebb59123",
-  "title": "Bla bla project",
-  "version": 2,
   "scenes": [
     { "key": "18cb2003-9d87-409f-afa6-ed2eebb59123", "name": "New scene" },
     { "key": "18cb2003-9d87-409f-afa6-ed2eebb59999", "name": "Copy scene" }
