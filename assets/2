@@ -1,0 +1,25 @@
+module.exports = () => {
+    // Module is always available
+    // var surface = Module.getSurface();
+    // var scene = surface.getScene();
+
+    var onInit = (scene, assets) => { return true; }
+    var onRender = () => { return true; }
+    var onDestroy = function () { return true; }
+    var onMouseEvent = function (event, button, x, y) { return true; }
+    var onScroll = function (y) { return true; }
+    var onTouchEvent = function (event, touches, pointer, x, y) { return true; }
+    var onSurfaceChanged = function (rotation, width, height) { return true; }
+    var onPause = function () { return true; }
+
+    return Object.assign({
+        onInit,
+        onRender,
+        onDestroy,
+        onMouseEvent,
+        onScroll,
+        onTouchEvent,
+        onSurfaceChanged,
+        onPause
+    })
+}
