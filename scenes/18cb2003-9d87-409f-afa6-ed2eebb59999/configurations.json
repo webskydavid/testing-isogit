@@ -1,0 +1,32 @@
+{
+    "2": {
+        "key": "2",
+        "title": "Configuration 2",
+        "type": "configuration",
+        "visible": true,
+        "links": {
+            "44": {
+                "key": "44",
+                "skey": "41",
+                "id": "3",
+                "type": "object-link",
+                "position": [1,2,3]
+            }
+        }
+    },
+    "3": {
+        "key": "3",
+        "title": "Configuration 3",
+        "type": "configuration",
+        "visible": false,
+        "links": {
+            "55": {
+                "key": "55",
+                "skey": "51",
+                "id": "3",
+                "type": "object-link",
+                "position": [1,2,3]
+            }
+        }
+    }
+}
