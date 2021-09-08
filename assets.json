@@ -11,7 +11,8 @@
       "title": "WorldController.js",
       "type": "javascript",
       "extension": "js",
-      "path":"assets/Model"
+      "path":"assets/Model",
+      "script": "javascript"
     },
     {
       "key": "3",
