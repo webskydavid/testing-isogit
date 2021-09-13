@@ -1,32 +1,38 @@
 [ 
+  {
+     "key": "1",
+     "title": "cone.c3b",
+     "type": "object",
+     "extension":"c3b",
+     "path":"assets/Model"
+   },
    {
-      "key": "1",
-      "title": "cone.c3b",
-      "type": "object",
-      "extension":"c3b",
-      "path":"assets/Model"
-    },
-    {
-      "key": "2",
-      "title": "WorldController.js",
-      "type": "script",
-      "extension": "js",
-      "path":"assets/Model",
-      "script": "javascript"
-    },
-    {
-      "key": "3",
-      "title": "3d",
-      "type": "folder",
-      "disableCheckbox": true,
-      "path":"assets/Model",
-      "children": [
-        {
-          "key": "4",
-          "title": "Interior.c3b",
-          "type": "object"
-        }
-      ]
-    }
-
+     "key": "2",
+     "title": "WorldController.js",
+     "type": "javascript",
+     "extension": "js",
+     "path":"assets/Model",
+     "script": "javascript"
+   },
+   {
+     "key": "3",
+     "title": "3d",
+     "type": "folder",
+     "disableCheckbox": true,
+     "path":"assets/Model",
+     "children": [
+       {
+         "key": "4",
+         "title": "Interior.c3b",
+         "type": "object"
+       }
+     ]
+   },
+   {
+     "key": "0",
+     "title": ".primitives",
+     "type": "folder",
+     "hidden": true,
+     "children": []
+   }
 ]
