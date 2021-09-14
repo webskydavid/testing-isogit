@@ -24,6 +24,13 @@
                 "key": "55",
                 "skey": "51",
                 "id": "3",
+                "type": "object-group-link",
+                "position": [1,2,3]
+            },
+            "66": {
+                "key": "55",
+                "skey": "51",
+                "id": "3",
                 "type": "object-link",
                 "position": [1,2,3]
             }
