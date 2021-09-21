@@ -10,7 +10,19 @@
                 "skey": "41",
                 "id": "3",
                 "type": "object-link",
-                "position": [1,2,3]
+                "entities": {
+                    "position": [1,2,3],
+                    "position_enabled": true,
+                    "data": {
+                        "0": {
+                            "albedo_texture": "1629714675942",
+                            "albedo_video": "",
+                            "albedo_ratio": [127,164,127],
+                            "opacity_ratio": 0.548
+                        }
+                    },
+                    "front_facing": false
+                }
             }
         }
     },
@@ -25,14 +37,38 @@
                 "skey": "51",
                 "id": "3",
                 "type": "object-group-link",
-                "position": [1,2,3]
+                "entities": {
+                    "position": [1,2,3],
+                    "position_enabled": true,
+                    "data": {
+                        "0": {
+                            "albedo_texture": "1629714675942",
+                            "albedo_video": "",
+                            "albedo_ratio": [127,164,127],
+                            "opacity_ratio": 0.548
+                        }
+                    },
+                    "front_facing": false
+                }
             },
             "66": {
                 "key": "55",
                 "skey": "51",
                 "id": "3",
                 "type": "object-link",
-                "position": [1,2,3]
+                "entities": {
+                    "position": [1,2,3],
+                    "position_enabled": true,
+                    "data": {
+                        "0": {
+                            "albedo_texture": "1629714675942",
+                            "albedo_video": "",
+                            "albedo_ratio": [127,164,127],
+                            "opacity_ratio": 0.548
+                        }
+                    },
+                    "front_facing": false
+                }
             }
         }
     }
