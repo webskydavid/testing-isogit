@@ -4,15 +4,14 @@
     "title": ".primitives",
     "type": "folder",
     "hidden": true,
-    "children": [
-      {
-        "key": "1",
-        "title": "cone.c3b",
-        "type": "object",
-        "extension": "c3b",
-        "path": "assets/Model"
-      }
-    ]
+    "children": []
+  },
+  {
+    "key": "1",
+    "title": "cone.c3b",
+    "type": "object",
+    "extension": "c3b",
+    "path": "assets/Model"
   },
   {
     "key": "2",

@@ -36,6 +36,7 @@
                 "key": "55",
                 "skey": "51",
                 "id": "3",
+<<<<<<< HEAD
                 "type": "object-group-link",
                 "entities": {
                     "position": [1,2,3],
@@ -55,6 +56,8 @@
                 "key": "55",
                 "skey": "51",
                 "id": "3",
+=======
+>>>>>>> parent of 300a9c7... changes
                 "type": "object-link",
                 "entities": {
                     "position": [1,2,3],
